@@ -12,5 +12,28 @@ One of the main advantages of using Python is the ability to interact directly w
 
 Machine learning and data analysis are fundamentally interative processes in which the data drives the analysis. It is essential for these processes to have tools that allow quick iteration and easy interaction.  
 
-As a general-purpose programming language, Python also allows for the creation of complex graphical user interfaces (GUIs) and web services, and for integration into existng systems.  
+As a general-purpose programming language, Python also allows for the creation of complex graphical user interfaces (GUIs), web services, and for integration into existing systems.  
+
+### scikit-learn
+
+
+### Jupyter Notebook
+
+
+### NumPy
+
+
+### SciPy
+
+
+### matplotlib
+
+
+### pandas
+
+
+### mglearn
+
+
+
 
